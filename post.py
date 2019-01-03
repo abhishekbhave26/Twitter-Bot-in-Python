@@ -34,9 +34,6 @@ class Post():
             x+=1
 
 
-if __name__=="__main__":
+
     
-    x=input('How many do you want to post ?')
-    x=int(x)
-    Post.KeyandPost(Post,x)
     

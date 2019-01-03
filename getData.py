@@ -38,7 +38,5 @@ class Images():
             except:
                 pass
 
-if __name__=="__main__":
-    url='https://www.google.com/search?q=arsenal+images&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjM2NzIo9DfAhWGMd8KHZydAOMQ_AUIDigB&biw=1366&bih=626'     
-    imageNumber=0
-    Images.getData(Images,url,imageNumber)
+
+    
